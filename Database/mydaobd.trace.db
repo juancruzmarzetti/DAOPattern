@@ -1,0 +1,40 @@
+2024-02-27 01:34:27.245039-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+DELETE FROM AVIONES WHERE ID = ? [42104-224]
+2024-02-27 01:34:27.276046-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+SELECT MARCA, MODELO, MATRICULA, FECHA_DE_ENTRADA_A_SERVICIO FROM AVIONES WHERE ID = ?; [42104-224]
+2024-02-27 01:34:27.297050-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+SELECT * FROM AVIONES; [42104-224]
+2024-02-27 01:34:27.340060-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+INSERT INTO AVIONES VALUES (ID, MARCA, MODELO, MATRICULA, FECHA_DE_ENTRADA_A_SERVICIO)
+(?,?,?,?,?) [42104-224]
+2024-02-27 01:34:27.369067-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+INSERT INTO AVIONES VALUES (ID, MARCA, MODELO, MATRICULA, FECHA_DE_ENTRADA_A_SERVICIO)
+(?,?,?,?,?) [42104-224]
+2024-02-27 01:34:27.397075-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+SELECT * FROM AVIONES; [42104-224]
+2024-02-27 01:34:59.251638-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+DELETE FROM AVIONES WHERE ID = ? [42104-224]
+2024-02-27 01:34:59.303654-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+SELECT MARCA, MODELO, MATRICULA, FECHA_DE_ENTRADA_A_SERVICIO FROM AVIONES WHERE ID = ?; [42104-224]
+2024-02-27 01:34:59.335661-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+SELECT * FROM AVIONES; [42104-224]
+2024-02-27 01:34:59.375085-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+INSERT INTO AVIONES VALUES (ID, MARCA, MODELO, MATRICULA, FECHA_DE_ENTRADA_A_SERVICIO)
+(?,?,?,?,?) [42104-224]
+2024-02-27 01:34:59.401902-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+INSERT INTO AVIONES VALUES (ID, MARCA, MODELO, MATRICULA, FECHA_DE_ENTRADA_A_SERVICIO)
+(?,?,?,?,?) [42104-224]
+2024-02-27 01:34:59.428787-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AVIONES" not found (this database is empty); SQL statement:
+SELECT * FROM AVIONES; [42104-224]
